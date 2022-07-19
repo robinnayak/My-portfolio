@@ -427,3 +427,9 @@ header {
 .container h1,h4,p{
     margin: 0.5rem;
 }
+.containerbox{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+    /* flex-wrap: wrap; */
+}
